@@ -1,10 +1,12 @@
 # Project title:- Photonics Integrated Transceiver Circuit Design  
   # Components:-  
   1) Electro-Optic Modulator (Electrical Signal to Optical Signal) - Transmitter Side   
-    a) Mach-Zahnder Interferometer 
-    b) Phase-Shifter       
-  2) Photo-detector(Optical Signal to Electrical Signal) - Receiver Side        
-  3) Fibre-Optic Cable      
+    a) Mach-Zahnder Interferometer   
+    b) Si PN diode Phase-Shifter       
+  2) Germanium Waveguide Photo-detector(Optical Signal to Electrical Signal) - Receiver Side        
+  3) Waveguides         
+  4) Directional Coupler  
+  5) Y-branch(Splitter+Combiners)   
   # Advantages of PICs:-  
   1) Higher Bandwidth  
   2) Lower Power Consumption  
