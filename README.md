@@ -10,6 +10,9 @@
   # Advantages of PICs:-  
   1) Higher Bandwidth  
   2) Lower Power Consumption  
+  # Applications of PICs:-  
+  1) Sensing Applications, particularly LiDAR used in Autonomous vehicles.  
+  2) Data Centres.  
 # EPDA(Electronic Photonic Design Automation) Tools:-     
 1) Synopsys - RSoft, OptSim, OptoDesigner     
 2) MentorGraphics - Calibre      
