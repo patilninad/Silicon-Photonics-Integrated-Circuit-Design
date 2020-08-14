@@ -27,7 +27,8 @@
   4) Noise Immune.  
   # Applications of PICs:-  
   1) Sensing Applications, particularly LiDAR used in Autonomous vehicles.  
-  2) Data Centres.  
+  2) Data Centres.    
+  3) Imaging Applications.  
 # EPDA(Electronic Photonic Design Automation) Tools:-     
 1) Synopsys - RSoft, OptSim, OptoDesigner     
 2) MentorGraphics - Calibre      
