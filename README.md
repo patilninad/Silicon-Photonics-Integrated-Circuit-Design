@@ -17,7 +17,8 @@
   1) Electro-Optic Modulator (Electrical Signal to Optical Signal) - Transmitter Side   
     a) Mach-Zahnder Interferometer   
     b) Si PN diode Phase-Shifter   
-    c) Directional Coupler  
+    c) Directional Coupler   
+    d) Y-Splitter
   2) Germanium Waveguide Photo-detector(Optical Signal to Electrical Signal) - Receiver Side        
   3) Waveguides         
   4) Directional Coupler  
@@ -32,6 +33,9 @@
   2) Data Centres.    
   3) Imaging Applications.  
 # EPDA(Electronic Photonic Design Automation) Tools:-     
-1) Synopsys - RSoft Component Design Suite, OptSim Circuit, OptoDesigner     
-2) MentorGraphics - Calibre      
+1) Synopsys Tools - 
+  a) RSoft Component Design Suite(Used for component Modeling/Design and simulation)   
+  b) OptSim Circuit(Used for designing optical circuits)   
+  c) OptoDesigner (Used for performing layout of the PIC chip)    
+2) MentorGraphics - Calibre (Used for performing DRC)      
 3) AIM Photonics Foundry - Educational PDK(Process Design Kit)       
