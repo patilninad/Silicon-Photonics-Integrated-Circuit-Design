@@ -4,7 +4,8 @@
      a) Low loss waveguides.  
      b) Splitters and Combiners.  
      c) Isolators/Circulators.  
-     d) Comb Generators.  
+     d) Comb Generators.   
+     e) Bends.    
   2) Active Components:-  
      a) Lasers (single frequency,tunable,mode locked).  
      b) Modulators.  
