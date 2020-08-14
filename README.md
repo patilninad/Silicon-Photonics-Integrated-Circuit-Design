@@ -16,7 +16,7 @@
   # Components:-  
   1) Electro-Optic Modulator (Electrical Signal to Optical Signal) - Transmitter Side   
     a) Mach-Zahnder Interferometer   
-    b) Si PN diode Phase-Shifter   
+    b) Silicon PN diode Phase-Shifter   
     c) Directional Coupler   
     d) Y-Splitter
   2) Germanium Waveguide Photo-detector(Optical Signal to Electrical Signal) - Receiver Side        
