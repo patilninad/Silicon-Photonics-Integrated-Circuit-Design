@@ -31,6 +31,6 @@
   2) Data Centres.    
   3) Imaging Applications.  
 # EPDA(Electronic Photonic Design Automation) Tools:-     
-1) Synopsys - RSoft, OptSim, OptoDesigner     
+1) Synopsys - RSoft Component Design Suite, OptSim Circuit, OptoDesigner     
 2) MentorGraphics - Calibre      
 3) AIM Photonics Foundry - Educational PDK(Process Design Kit)       
